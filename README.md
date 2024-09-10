@@ -5,7 +5,7 @@ Summary of Agents Resources.
 
 - [1. Survey](#1-survey)
 - [2. Framework](#2-framework)
-- [3. Reasoning and Planning](#3-reasoning and planning)
+- [3. Reasoning and Planning](#3-reasoning-and-planning)
 - [Miscellaneous](#miscellaneous)
   
 ## 1. Survey
