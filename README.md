@@ -20,7 +20,7 @@ Summary of Agents Resources.
 #### Reasoning
 - [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.10625)  
   2022.05 - Denny Zhou - DeepMind
-- [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)
+- [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)  
   2022.03 - Xuezhi Wang - Google Research, Brain Team  
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)  
   2022.01 - Jason Wei - Google Brain Team  
