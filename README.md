@@ -9,6 +9,10 @@ Summary of Agents Resources.
 - [Miscellaneous](#miscellaneous)
   
 ## 1. Survey
+- [Reasoning with Large Language Models, a Survey](https://arxiv.org/abs/2407.11511v1)  
+  2024.07 - Aske Plaat - Leiden University, Netherlands  
+- [Understanding the planning of LLM agents: A survey](https://arxiv.org/abs/2402.02716)  
+  2024.02 - Xu Huang - University of Science and Technology of China
   
 ## 2. Framework
 - [AGENTGYM: Evolving Large Language Model-based Agents across Diverse Environments](https://arxiv.org/abs/2406.04151)  
