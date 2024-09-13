@@ -30,7 +30,14 @@ Summary of Agents Resources.
   2022.03 - Xuezhi Wang - Google Research, Brain Team  
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)  
   2022.01 - Jason Wei - Google Brain Team  
-  
+
+#### Reflection
+- [CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing](https://arxiv.org/abs/2305.11738)  
+  2023.05 - Zhibin Gou - Microsoft Research Asia  
+- [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366)  
+  2023.03 - Noah Shinn - Northeastern University  
+- [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651)  
+  2023.03 - Aman Madaan - CMU  
 
 ## Miscellaneous
 - [Large Language Model Agents](https://llmagents-learning.org/f24)
