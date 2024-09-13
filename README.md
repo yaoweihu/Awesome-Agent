@@ -22,6 +22,8 @@ Summary of Agents Resources.
 
 ## 3. Reasoning and Planning
 #### Reasoning
+- [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)  
+  2024.03 - Eric Zelikman - Stanford University  
 - [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.10625)  
   2022.05 - Denny Zhou - DeepMind
 - [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)  
