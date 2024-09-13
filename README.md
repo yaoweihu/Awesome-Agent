@@ -33,4 +33,5 @@ Summary of Agents Resources.
   
 
 ## Miscellaneous
-- [Large Language Model Agents](https://llmagents-learning.org/f24)  
+- [Large Language Model Agents](https://llmagents-learning.org/f24)
+- [LLM Agents Blogs](https://juejin.cn/user/1398234521286557/posts)
