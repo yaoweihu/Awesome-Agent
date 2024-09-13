@@ -15,6 +15,8 @@ Summary of Agents Resources.
   2024.02 - Xu Huang - University of Science and Technology of China
   
 ## 2. Framework
+- [AGENT WORKFLOW MEMORY](https://arxiv.org/abs/2409.07429)  
+  2024.09 - Zora Zhiruo Wang - CMU  
 - [AGENTGYM: Evolving Large Language Model-based Agents across Diverse Environments](https://arxiv.org/abs/2406.04151)  
   2024.06 - Zhiheng Xi - Fudan University  
 - [Symbolic Learning Enables Self-Evolving Agents](https://arxiv.org/abs/2406.18532)  
