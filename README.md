@@ -11,10 +11,12 @@ Summary of Agents Resources.
 ## 1. Survey
 - [Reasoning with Large Language Models, a Survey](https://arxiv.org/abs/2407.11511v1)  
   2024.07 - Aske Plaat - Leiden University, Netherlands  
+- [Large Language Model based Multi-Agents: A Survey of Progress and Challenges](https://arxiv.org/abs/2402.01680)  
+  2024.04 - Taicheng Guo - University of Notre Dame
+- [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)  
+  2024.04 - Lei Wang - Renmin University  
 - [Understanding the planning of LLM agents: A survey](https://arxiv.org/abs/2402.02716)  
   2024.02 - Xu Huang - University of Science and Technology of China  
-- [Large Language Model based Multi-Agents: A Survey of Progress and Challenges](https://arxiv.org/abs/2402.01680)  
-  2024.04 - Taicheng Guo - University of Notre Dame   
   
 ## 2. Framework
 - [Agent Workflow Memory](https://arxiv.org/abs/2409.07429)  
