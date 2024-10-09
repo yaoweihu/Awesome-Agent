@@ -42,10 +42,10 @@ Summary of Agents Resources.
 #### Reflection
 - [CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing](https://arxiv.org/abs/2305.11738)  
   2023.05 - Zhibin Gou - Microsoft Research Asia  
-- [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651)  
-  2023.03 - Aman Madaan - CMU  
 - [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366)  
   2023.03 - Noah Shinn - Northeastern University  
+- [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651)  
+  2023.03 - Aman Madaan - CMU  
 
 ## Miscellaneous
 - [Large Language Model Agents](https://llmagents-learning.org/f24)
