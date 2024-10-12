@@ -5,7 +5,8 @@ Summary of Agents Resources.
 
 - [1. Survey](#1-survey)
 - [2. Framework](#2-framework)
-- [3. Reasoning and Planning](#3-reasoning-and-planning)
+- [3. Reasoning](#3-reasoning)
+- [4. Memory](#4-memory)
 - [Miscellaneous](#miscellaneous)
   
 ## 1. Survey
@@ -28,7 +29,7 @@ Summary of Agents Resources.
 - [Symbolic Learning Enables Self-Evolving Agents](https://arxiv.org/abs/2406.18532)  
   2024.06 - Wangchunshu Zhou - AIWaves Inc., China
 
-## 3. Reasoning and Planning
+## 3. Reasoning
 #### Reasoning
 - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)  
   2024.03 - Eric Zelikman - Stanford University
@@ -48,6 +49,10 @@ Summary of Agents Resources.
   2023.03 - Noah Shinn - Northeastern University  
 - [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651)  
   2023.03 - Aman Madaan - CMU  
+
+## 4. Memory
+- [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)  
+  2023.10 - Charles Packer - Berkeley, UC  
 
 ## Miscellaneous
 - [Large Language Model Agents](https://llmagents-learning.org/f24)
