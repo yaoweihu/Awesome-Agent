@@ -20,7 +20,7 @@ Summary of Agents Resources.
   2024.02 - Xu Huang - University of Science and Technology of China  
   
 ## 2. Framework
-- [AgentSquare: Automatic LLM Agent Search in Modular Design Space](https://arxiv.org/abs/2410.06153v1)
+- [AgentSquare: Automatic LLM Agent Search in Modular Design Space](https://arxiv.org/abs/2410.06153v1)  
   2024.10 - Yu Shang - Tsinghua University  
 - [Agent Workflow Memory](https://arxiv.org/abs/2409.07429)  
   2024.09 - Zora Zhiruo Wang - CMU  
