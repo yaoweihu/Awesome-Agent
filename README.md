@@ -33,6 +33,8 @@ Summary of Agents Resources.
 #### Reasoning
 - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)  
   2024.03 - Eric Zelikman - Stanford University
+- [Synergy-of-Thoughts: Eliciting Efficient Reasoning in Hybrid Language Models](https://arxiv.org/abs/2402.02563)  
+  2024.02 - Yu Shang - Tsinghua University  
 - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)  
   2023.05 - Shunyu Yao - Princeton University   
 - [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.10625)  
