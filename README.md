@@ -7,6 +7,7 @@ Summary of Agents Resources.
 - [2. Framework](#2-framework)
 - [3. Reasoning](#3-reasoning)
 - [4. Memory](#4-memory)
+- [5. Tools](#5-tools)
 - [Miscellaneous](#miscellaneous)
   
 ## 1. Survey
@@ -55,6 +56,10 @@ Summary of Agents Resources.
 ## 4. Memory
 - [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)  
   2023.10 - Charles Packer - Berkeley, UC  
+
+## 5. Tools
+- [ToolGen: Unified Tool Retrieval and Calling via Generation](https://arxiv.org/abs/2410.03439)  
+  2024.10 - Renxi Wang - LibrAI  
 
 ## Miscellaneous
 - [Large Language Model Agents](https://llmagents-learning.org/f24)
