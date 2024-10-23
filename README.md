@@ -24,7 +24,9 @@ Summary of Agents Resources.
 - [AgentSquare: Automatic LLM Agent Search in Modular Design Space](https://arxiv.org/abs/2410.06153v1)  
   2024.10 - Yu Shang - Tsinghua University  
 - [Agent Workflow Memory](https://arxiv.org/abs/2409.07429)  
-  2024.09 - Zora Zhiruo Wang - CMU  
+  2024.09 - Zora Zhiruo Wang - CMU
+- [Intelligent Agents with LLM-based Process Automation](https://dl.acm.org/doi/pdf/10.1145/3637528.3671646)  
+  2024.08 - Yanchu Guan - Ant Group  
 - [AGENTGYM: Evolving Large Language Model-based Agents across Diverse Environments](https://arxiv.org/abs/2406.04151)  
   2024.06 - Zhiheng Xi - Fudan University  
 - [Symbolic Learning Enables Self-Evolving Agents](https://arxiv.org/abs/2406.18532)  
