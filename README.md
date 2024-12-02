@@ -31,6 +31,8 @@ Summary of Agents Resources.
   2024.06 - Zhiheng Xi - Fudan University  
 - [Symbolic Learning Enables Self-Evolving Agents](https://arxiv.org/abs/2406.18532)  
   2024.06 - Wangchunshu Zhou - AIWaves Inc., China
+- [AgentScope: A Flexible yet Robust Multi-Agent Platform](https://arxiv.org/abs/2402.14034)  - Package
+  2024.04 - Dawei Gao - Alibaba Group  
 
 ## 3. Reasoning
 #### Reasoning
