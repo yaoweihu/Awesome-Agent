@@ -33,6 +33,8 @@ Summary of Agents Resources.
   2024.06 - Wangchunshu Zhou - AIWaves Inc., China
 - [AgentScope: A Flexible yet Robust Multi-Agent Platform](https://arxiv.org/abs/2402.14034)  - Package  
   2024.04 - Dawei Gao - Alibaba Group  
+- [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155) - Package  
+  2023.08 - Qingyun Wu - Microsoft Research  
 
 ## 3. Reasoning
 #### Reasoning
