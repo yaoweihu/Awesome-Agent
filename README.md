@@ -8,6 +8,7 @@ Summary of Agents Resources.
 - [3. Reasoning](#3-reasoning)
 - [4. Memory](#4-memory)
 - [5. Tools](#5-tools)
+- [6. Evaluation](#6-evaluation)
 - [Miscellaneous](#miscellaneous)
   
 ## 1. Survey
@@ -66,6 +67,10 @@ Summary of Agents Resources.
 ## 5. Tools
 - [ToolGen: Unified Tool Retrieval and Calling via Generation](https://arxiv.org/abs/2410.03439)  
   2024.10 - Renxi Wang - LibrAI  
+
+## 6. Evaluation
+- [A Survey on LLM-as-a-Judge](https://arxiv.org/abs/2411.15594)  
+  2024.11 - JIAWEI GU - International Digital Economy Academy  
 
 ## Miscellaneous
 - [Large Language Model Agents](https://llmagents-learning.org/f24)
