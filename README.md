@@ -12,6 +12,8 @@ Summary of Agents Resources.
 - [Miscellaneous](#miscellaneous)
   
 ## 1. Survey
+- [Multi-Agent Collaboration Mechanisms: A Survey of LLMs](https://arxiv.org/abs/2501.06322)  
+  2025.01 - Khanh-Tung Tran - University College Cork, Ireland  
 - [Reasoning with Large Language Models, a Survey](https://arxiv.org/abs/2407.11511v1)  
   2024.07 - Aske Plaat - Leiden University, Netherlands  
 - [Large Language Model based Multi-Agents: A Survey of Progress and Challenges](https://arxiv.org/abs/2402.01680)  
