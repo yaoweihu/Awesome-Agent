@@ -70,7 +70,9 @@ Summary of Agents Resources.
 - [ToolGen: Unified Tool Retrieval and Calling via Generation](https://arxiv.org/abs/2410.03439)  
   2024.10 - Renxi Wang - LibrAI  
 
-## 6. Evaluation
+## 6. LLM-as-a-Judge Evaluation
+- [Training an LLM-as-a-Judge Model: Pipeline, Insights, and Practical Lessons](https://arxiv.org/pdf/2502.02988)  
+  2025.02 - Renjun Hu - East China Normal University  
 - [A Survey on LLM-as-a-Judge](https://arxiv.org/abs/2411.15594)  
   2024.11 - JIAWEI GU - International Digital Economy Academy  
 
