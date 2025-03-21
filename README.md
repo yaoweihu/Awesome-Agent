@@ -12,6 +12,8 @@ Summary of Agents Resources.
 - [Miscellaneous](#miscellaneous)
   
 ## 1. Survey
+- [AI Agents: Evolution, Architecture, and Real-World Applications](https://arxiv.org/abs/2503.12687)  
+  2025.03 - Naveen Krishnan - Microsoft Inc.  
 - [Multi-Agent Collaboration Mechanisms: A Survey of LLMs](https://arxiv.org/abs/2501.06322)  
   2025.01 - Khanh-Tung Tran - University College Cork, Ireland  
 - [Reasoning with Large Language Models, a Survey](https://arxiv.org/abs/2407.11511v1)  
